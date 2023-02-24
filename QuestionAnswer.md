@@ -14,3 +14,9 @@
 <details><summary>What is jenkins</summary></br><b>
 </b>
 </details>
+<details><summary>What have you used jenkins for?</summary></br><b>
+</b>
+</details>
+<details><summary>What CI/CD best practices are you familiar with? Or what do you consider as CI/CD best practice?</summary></br><b>
+</b>
+</details>
