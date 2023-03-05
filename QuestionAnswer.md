@@ -28,4 +28,7 @@
 <details><summary>Explain NODE OR WORKER in jenkins </summary></br><b></b></details>
 <details><summary>Explain EXECUTOR in jenkins </summary></br><b></b></details>
 <details><summary>What types of jobs in are there in jenkins ? which types of have you used?</summary></br><b></b></details>
+<details><summary>List some limitation of jenkins </summary></br><b></b></details>
+<details><summary>Difference between a scripted and declarative pipeline </summary></br><b></b></details>
+<details><summary>Describe how to add new  agents/nodes to Jenkins</summary></br><b></b></details>
 
